@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1791731301 source:c:\users\cadudz\downloads\tamagotchi\main.c
+	"exibicao.h"
+
+1791698343 c:\users\cadudz\downloads\tamagotchi\exibicao.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1791694139 source:c:\users\cadudz\downloads\tamagotchi\exibicao.c
+	"exibicao.h"
+
+1791700735 source:c:\users\cadudz\downloads\tamagotchi\recursos.rc
+
+1791733494 source:c:\users\cadudz\downloads\tamagotchi - copia\computacao.c
+	"computacao.h"
+
+1791733550 c:\users\cadudz\downloads\tamagotchi - copia\computacao.h
+	<time.h>
+	<stdlib.h>
+
+1791700735 source:c:\users\cadudz\downloads\tamagotchi - copia\recursos.rc
+
